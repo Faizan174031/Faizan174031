@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faizan174031
-- 👀 I’m interested in you !
+- 👀 I’m interested in koding  !
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me (Please don't)
 
